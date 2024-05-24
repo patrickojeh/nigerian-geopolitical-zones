@@ -24,10 +24,15 @@ Example:
 // Utils
 import { getAllZones, getZoneData, getZoneByState } from 'nigerian-geopolitical-zones';
 
-getAllZones(); // Returns all 36 states (Incl. FCT) with their zones
-getZoneData('south east'); // Returns all states that fall in a zone
-getZoneData('south-east'); // Returns all states that fall in a zone
-getZoneByState('abia'); // Returns a state with zone data
+// All 36 states (incl. FCT) with their zones
+getAllZones();
+
+// All states that fall in a zone
+getZoneData('south east');
+getZoneData('south-east');
+
+// A state with zone data
+getZoneByState('abia'); 
 ```
 
 ## Data structure
