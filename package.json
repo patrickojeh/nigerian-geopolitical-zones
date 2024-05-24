@@ -19,8 +19,7 @@
     "nigerian country code"
   ],
   "files": [
-    "dist",
-    "data/zones.json"
+    "dist"
   ],
   "engines": {
     "node": ">=10"
