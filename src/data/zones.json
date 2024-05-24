@@ -1,0 +1,506 @@
+[
+  {
+    "state": "Abia",
+    "areaKm2": 6320,
+    "capitalCity": "Umuahia",
+    "coordinates": {
+      "latitude": 5.417,
+      "longitude": 7.5
+    },
+    "motto": "Ọ̀hà nke Chineke",
+    "population": 3841943,
+    "populationRank": 30,
+    "yearCreated": 1991,
+    "zone": "South East"
+  },
+  {
+    "state": "Adamawa",
+    "areaKm2": 36917,
+    "capitalCity": "Yola",
+    "coordinates": {
+      "latitude": 9.333,
+      "longitude": 12.5
+    },
+    "motto": "Land of Beauty",
+    "population": 4536948,
+    "populationRank": 11,
+    "yearCreated": 1991,
+    "zone": "North East"
+  },
+  {
+    "state": "Akwa Ibom",
+    "areaKm2": 7081,
+    "capitalCity": "Uyo",
+    "coordinates": {
+      "latitude": 5,
+      "longitude": 7.833
+    },
+    "motto": "Land of Promise",
+    "population": 4780581,
+    "populationRank": 15,
+    "yearCreated": 1987,
+    "zone": "South South"
+  },
+  {
+    "state": "Anambra",
+    "areaKm2": 4844,
+    "capitalCity": "Awka",
+    "coordinates": {
+      "latitude": 6.333,
+      "longitude": 7
+    },
+    "motto": "Light of the Nation",
+    "population": 5599910,
+    "populationRank": 11,
+    "yearCreated": 1991,
+    "zone": "South East"
+  },
+  {
+    "state": "Bauchi",
+    "areaKm2": 45893,
+    "capitalCity": "Bauchi",
+    "coordinates": {
+      "latitude": 10.5,
+      "longitude": 10
+    },
+    "motto": "Pearl of Tourism",
+    "population": 7540663,
+    "populationRank": 7,
+    "yearCreated": 1976,
+    "zone": "North East"
+  },
+  {
+    "state": "Bayelsa",
+    "areaKm2": 10773,
+    "capitalCity": "Yenagoa",
+    "coordinates": {
+      "latitude": 4.7719,
+      "longitude": 6.0699
+    },
+    "motto": "Glory of all lands",
+    "population": 2394725,
+    "populationRank": 34,
+    "yearCreated": 1996,
+    "zone": "South South"
+  },
+  {
+    "state": "Benue",
+    "areaKm2": 34059,
+    "capitalCity": "Makurdi",
+    "coordinates": {
+      "latitude": 7.3,
+      "longitude": 8.75
+    },
+    "motto": "Food Basket of the Nation",
+    "population": 5787706,
+    "populationRank": 10,
+    "yearCreated": 1976,
+    "zone": "North Central"
+  },
+  {
+    "state": "Borno",
+    "areaKm2": 70898,
+    "capitalCity": "Maiduguri",
+    "coordinates": {
+      "latitude": 11.5,
+      "longitude": 13
+    },
+    "motto": "Home of Peace",
+    "population": 5751590,
+    "populationRank": 5,
+    "yearCreated": 1976,
+    "zone": "North East"
+  },
+  {
+    "state": "Cross River",
+    "areaKm2": 20156,
+    "capitalCity": "Calabar",
+    "coordinates": {
+      "latitude": 5.750,
+      "longitude": 8.500
+    },
+    "motto": "The People's Paradise",
+    "population": 4175020,
+    "populationRank": 27,
+    "yearCreated": 1967,
+    "zone": "South South"
+  },
+  {
+    "state": "Delta",
+    "areaKm2": 17698,
+    "capitalCity": "Asaba",
+    "coordinates": {
+      "latitude": 5.500,
+      "longitude": 6.000
+    },
+    "motto": "The Big Heart",
+    "population": 5307543,
+    "populationRank": 12,
+    "yearCreated": 1991,
+    "zone": "South South"
+  },
+  {
+    "state": "Ebonyi",
+    "areaKm2": 6400,
+    "capitalCity": "Abakaliki",
+    "coordinates": {
+      "latitude": 6.250,
+      "longitude": 8.083
+    },
+    "motto": "Salt of the Nation",
+    "population": 3007155,
+    "populationRank": 28,
+    "yearCreated": 1996,
+    "zone": "South East"
+  },
+  {
+    "state": "Edo",
+    "areaKm2": 19559,
+    "capitalCity": "Benin City",
+    "coordinates": {
+      "latitude": 6.500,
+      "longitude": 6.000
+    },
+    "motto": "HeartBeat Of The Nation",
+    "population": 4461137,
+    "populationRank": 13,
+    "yearCreated": 1991,
+    "zone": "South South"
+  },
+  {
+    "state": "Ekiti",
+    "areaKm2": 6353,
+    "capitalCity": "Ado Ekiti",
+    "coordinates": {
+      "latitude": 7.667,
+      "longitude": 5.250
+    },
+    "motto": "Land of Honour & Integrity",
+    "population": 3350401,
+    "populationRank": 20,
+    "yearCreated": 1996,
+    "zone": "South West"
+  },
+  {
+    "state": "Enugu",
+    "areaKm2": 13161,
+    "capitalCity": "Enugu",
+    "coordinates": {
+      "latitude": 6.500,
+      "longitude": 7.500
+    },
+    "motto": "Coal City State",
+    "population": 4396098,
+    "populationRank": 22,
+    "yearCreated": 1991,
+    "zone": "South East"
+  },
+  {
+    "state": "Gombe",
+    "areaKm2": 18768,
+    "capitalCity": "Gombe",
+    "coordinates": {
+      "latitude": 10.250,
+      "longitude": 11.167
+    },
+    "motto": "Jewel in the Savannah",
+    "population": 3623462,
+    "populationRank": 19,
+    "yearCreated": 1996,
+    "zone": "North East"
+  },
+  {
+    "state": "Imo",
+    "areaKm2": 5530,
+    "capitalCity": "Owerri",
+    "coordinates": {
+      "latitude": 5.483,
+      "longitude": 7.033
+    },
+    "motto": "Eastern Heartland",
+    "population": 5167722,
+    "populationRank": 14,
+    "yearCreated": 1976,
+    "zone": "South East"
+  },
+  {
+    "state": "Jigawa",
+    "areaKm2": 23154,
+    "capitalCity": "Dutse",
+    "coordinates": {
+      "latitude": 12.000,
+      "longitude": 9.750
+    },
+    "motto": "A New World",
+    "population": 6779080,
+    "populationRank": 9,
+    "yearCreated": 1991,
+    "zone": "North West"
+  },
+  {
+    "state": "Kaduna",
+    "areaKm2": 46053,
+    "capitalCity": "Kaduna",
+    "coordinates": {
+      "latitude": 10.333,
+      "longitude": 7.750
+    },
+    "motto": "Centre of Learning",
+    "population": 8324285,
+    "populationRank": 4,
+    "yearCreated": 1967,
+    "zone": "North West"
+  },
+  {
+    "state": "Kano",
+    "areaKm2": 20131,
+    "capitalCity": "Kano",
+    "coordinates": {
+      "latitude": 11.500,
+      "longitude": 8.500
+    },
+    "motto": "Centre of Commerce",
+    "population": 14253549,
+    "populationRank": 1,
+    "yearCreated": 1967,
+    "zone": "North West"
+  },
+  {
+    "state": "Katsina",
+    "areaKm2": 24192,
+    "capitalCity": "Katsina",
+    "coordinates": {
+      "latitude": 12.250,
+      "longitude": 7.500
+    },
+    "motto": "Home of Hospitality",
+    "population": 9300382,
+    "populationRank": 3,
+    "yearCreated": 1987,
+    "zone": "North West"
+  },
+  {
+    "state": "Kebbi",
+    "areaKm2": 36800,
+    "capitalCity": "Birnin Kebbi",
+    "coordinates": {
+      "latitude": 11.500,
+      "longitude": 4.000
+    },
+    "motto": "Land of Equity",
+    "population": 5001610,
+    "populationRank": 21,
+    "yearCreated": 1991,
+    "zone": "North West"
+  },
+  {
+    "state": "Kogi",
+    "areaKm2": 29833,
+    "capitalCity": "Lokoja",
+    "coordinates": {
+      "latitude": 7.500,
+      "longitude": 6.700
+    },
+    "motto": "The Confluence State",
+    "population": 4153734,
+    "populationRank": 17,
+    "yearCreated": 1991,
+    "zone": "North Central"
+  },
+  {
+    "state": "Kwara",
+    "areaKm2": 36825,
+    "capitalCity": "Ilorin",
+    "coordinates": {
+      "latitude": 8.500,
+      "longitude": 5.000
+    },
+    "motto": "State of Harmony",
+    "population": 3259613,
+    "populationRank": 29,
+    "yearCreated": 1967,
+    "zone": "North Central"
+  },
+  {
+    "state": "Lagos",
+    "areaKm2": 3577,
+    "capitalCity": "Ikeja",
+    "coordinates": {
+      "latitude": 6.583,
+      "longitude": 3.750
+    },
+    "motto": "Centre of Excellence",
+    "population": 12772884,
+    "populationRank": 2,
+    "yearCreated": 1967,
+    "zone": "South West"
+  },
+  {
+    "state": "Nasarawa",
+    "areaKm2": 26256,
+    "capitalCity": "Lafia",
+    "coordinates": {
+      "latitude": 8.533,
+      "longitude": 8.300
+    },
+    "motto": "Home of Solid Minerals",
+    "population": 2632239,
+    "populationRank": 18,
+    "yearCreated": 1996,
+    "zone": "North Central"
+  },
+  {
+    "state": "Niger",
+    "areaKm2": 76363,
+    "capitalCity": "Minna",
+    "coordinates": {
+      "latitude": 10.000,
+      "longitude": 6.000
+    },
+    "motto": "The Power State",
+    "population": 6220617,
+    "populationRank": 6,
+    "yearCreated": 1976,
+    "zone": "North Central"
+  },
+  {
+    "state": "Ogun",
+    "areaKm2": 16981,
+    "capitalCity": "Abeokuta",
+    "coordinates": {
+      "latitude": 7.000,
+      "longitude": 3.583
+    },
+    "motto": "Gateway State",
+    "population": 5945275,
+    "populationRank": 8,
+    "yearCreated": 1976,
+    "zone": "South West"
+  },
+  {
+    "state": "Ondo",
+    "areaKm2": 15500,
+    "capitalCity": "Akure",
+    "coordinates": {
+      "latitude": 7.167,
+      "longitude": 5.083
+    },
+    "motto": "Sunshine State",
+    "population": 4969707,
+    "populationRank": 25,
+    "yearCreated": 1976,
+    "zone": "South West"
+  },
+  {
+    "state": "Osun",
+    "areaKm2": 9251,
+    "capitalCity": "Osogbo",
+    "coordinates": {
+      "latitude": 7.500,
+      "longitude": 4.500
+    },
+    "motto": "Land of Virtue",
+    "population": 4237396,
+    "populationRank": 16,
+    "yearCreated": 1991,
+    "zone": "South West"
+  },
+  {
+    "state": "Oyo",
+    "areaKm2": 28454,
+    "capitalCity": "Ibadan",
+    "coordinates": {
+      "latitude": 8.000,
+      "longitude": 4.000
+    },
+    "motto": "Pace Setter State",
+    "population": 7512855,
+    "populationRank": 6,
+    "yearCreated": 1976,
+    "zone": "South West"
+  },
+  {
+    "state": "Plateau",
+    "areaKm2": 30913,
+    "capitalCity": "Jos",
+    "coordinates": {
+      "latitude": 9.167,
+      "longitude": 9.750
+    },
+    "motto": "Home of Peace and Tourism",
+    "population": 4400974,
+    "populationRank": 24,
+    "yearCreated": 1976,
+    "zone": "North Central"
+  },
+  {
+    "state": "Rivers",
+    "areaKm2": 11077,
+    "capitalCity": "Port Harcourt",
+    "coordinates": {
+      "latitude": 4.750,
+      "longitude": 6.833
+    },
+    "motto": "Treasure Base of the Nation",
+    "population": 7034973,
+    "populationRank": 7,
+    "yearCreated": 1967,
+    "zone": "South South"
+  },
+  {
+    "state": "Sokoto",
+    "areaKm2": 25973,
+    "capitalCity": "Sokoto",
+    "coordinates": {
+      "latitude": 13.083,
+      "longitude": 5.250
+    },
+    "motto": "Seat of the Caliphate",
+    "population": 5863187,
+    "populationRank": 23,
+    "yearCreated": 1976,
+    "zone": "North West"
+  },
+  {
+    "state": "Yobe",
+    "areaKm2": 45502,
+    "capitalCity": "Damaturu",
+    "coordinates": {
+      "latitude": 12.000,
+      "longitude": 11.500
+    },
+    "motto": "Pride of the Sahel",
+    "population": 3398177,
+    "populationRank": 32,
+    "yearCreated": 1991,
+    "zone": "North East"
+  },
+  {
+    "state": "Zamfara",
+    "areaKm2": 39762,
+    "capitalCity": "Gusau",
+    "coordinates": {
+      "latitude": 12.167,
+      "longitude": 6.250
+    },
+    "motto": "Farming is Our Pride",
+    "population": 5317793,
+    "populationRank": 14,
+    "yearCreated": 1996,
+    "zone": "North West"
+  },
+  {
+    "state": "Federal Capital Territory",
+    "areaKm2": 7315,
+    "capitalCity": "Abuja",
+    "coordinates": {
+      "latitude": 8.8333,
+      "longitude": 7.1667
+    },
+    "motto": "Centre of Unity",
+    "population": 3067500,
+    "populationRank": null,
+    "yearCreated": 1976,
+    "zone": "North Central"
+  }
+]

@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+.gitignore
+test
+vite.config.ts
+src
+LICENSE
+package.json
+tsconfig.json
+yarn.lock
