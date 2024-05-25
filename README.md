@@ -1,4 +1,5 @@
-# Nigerian Geopolitical Zones Data 
+# Nigerian Geopolitical Zones Data ![NPM Version](https://img.shields.io/npm/v/nigerian-geopolitical-zones)
+
 
 This library contains in JSON format, Nigerian states with their various geopolitical zones. Other data includes:
 - Area (in Km2)
