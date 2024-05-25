@@ -25,8 +25,11 @@ Example:
 // Utils
 import { getAllZones, getZoneData, getZoneByState } from 'nigerian-geopolitical-zones';
 
-// All 36 states (incl. FCT) with their zones
+// All 36 states (plus. FCT) with their zones
 getAllZones();
+
+// Names of all zones
+getZonesList();
 
 // All states that fall in a zone
 getZoneData('south east');
