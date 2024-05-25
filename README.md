@@ -1,4 +1,5 @@
-# Nigerian Geopolitical Zones Data 
+# Nigerian Geopolitical Zones Data ![NPM Version](https://img.shields.io/npm/v/nigerian-geopolitical-zones)
+
 
 This library contains in JSON format, Nigerian states with their various geopolitical zones. Other data includes:
 - Area (in Km2)
@@ -24,8 +25,11 @@ Example:
 // Utils
 import { getAllZones, getZoneData, getZoneByState } from 'nigerian-geopolitical-zones';
 
-// All 36 states (incl. FCT) with their zones
+// All 36 states (plus. FCT) with their zones
 getAllZones();
+
+// Names of all zones
+getZonesList();
 
 // All states that fall in a zone
 getZoneData('south east');

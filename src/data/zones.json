@@ -462,6 +462,20 @@
     "zone": "North West"
   },
   {
+    "state": "Taraba",
+    "areaKm2": 54473,
+    "capitalCity": "Jalingo",
+    "coordinates": {
+      "latitude": 8.0000,
+      "longitude": 10.5000
+    },
+    "motto": "Nature's Gift to the Nation",
+    "population": 3331885,
+    "populationRank": null,
+    "yearCreated": 1991,
+    "zone": "North East"
+  },
+  {
     "state": "Yobe",
     "areaKm2": 45502,
     "capitalCity": "Damaturu",

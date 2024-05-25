@@ -1,4 +1,4 @@
-import getAllZones from '../src/lib/getAllZones';
+import { getAllZones } from '../src/index';
 import { ZonesInterface } from '../src/shared/interfaces';
 
 describe('functionality to get data for all zones', () => {

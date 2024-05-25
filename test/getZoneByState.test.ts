@@ -1,4 +1,4 @@
-import getZoneByState from '../src/lib/getZoneByState';
+import { getZoneByState } from '../src/index';
 import { ZonesInterface } from '../src/shared/interfaces';
 
 describe('functionality to get data for a particular state', () => {
