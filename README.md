@@ -65,7 +65,12 @@ Example:
 
 ## Contributions
 
-PRs are welcome.
+1. Clone this repository
+2. Create a branch
+3. Make some changes
+4. Test your changes
+5. Push your branch and open a PR
+
 
 ## Credits
 
